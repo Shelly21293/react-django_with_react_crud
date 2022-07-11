@@ -1,0 +1,18 @@
+{
+  "cars": [
+    {
+      "model": "kia",
+      "year": "2022",
+      "color": "pink",
+      "img": "p1.jpg",
+      "id": 2
+    },
+    {
+      "model": "Honda",
+      "year": "2021",
+      "color": "black",
+      "img": "p1.jpg",
+      "id": 3
+    }
+  ]
+}
